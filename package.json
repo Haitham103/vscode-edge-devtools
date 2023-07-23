@@ -671,7 +671,7 @@
         "test": "npm run lint && jest --config package.json --runInBand --env=jsdom"
     },
     "dependencies": {
-        "@vscode/codicons": "0.0.22",
+        "@vscode/codicons": "0.0.33",
         "bufferutil": "4.0.4",
         "lit-html": "^2.2.2",
         "puppeteer-core": "13.1.2",
