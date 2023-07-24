@@ -675,7 +675,7 @@
         "bufferutil": "4.0.4",
         "lit-html": "^2.2.2",
         "puppeteer-core": "13.7.0",
-        "utf-8-validate": "5.0.6",
+        "utf-8-validate": "5.0.10",
         "vscode-chrome-debug-core": "6.8.11",
         "vscode-extension-telemetry": "0.4.1",
         "vscode-webhint": "2.1.11",
